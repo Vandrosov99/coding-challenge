@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-CodingChallenge-FA37F8C2-40CC-45ED-A7BB-A1606B703D69</UserSecretsId>
+    <UserSecretsId>aspnet-CodingChallenge-8EA149D5-7FE8-4117-AF4E-C2E73302E7B3</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
